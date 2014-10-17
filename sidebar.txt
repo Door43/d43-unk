@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[unk:home|Door43 (unk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-unk|d43-unk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-unk/archive/master.zip|d43-unk.zip]]
+
+**Recent Changes**
+{{changes>ns = unk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/unk|Ethnologue data]]
+
